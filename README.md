@@ -1,3 +1,3 @@
 # Pipelined-MIPS-Lite-CPU
 
-## See Final Project..pdf 
+## Detail in Final Project..pdf 
